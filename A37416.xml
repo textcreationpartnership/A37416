@@ -1,0 +1,609 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A defensive vindication of the publike liturgy, established ceremonies, and setled patrimony of the Church of England against such as (putting themselves to an ill occupation) have unjustly impeached or oppugned them / by a peaceable sonne of the same church, no way addicted to novelty or innovation.</title>
+            <author>Peaceable sonne of the same church.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37416</idno>
+            <idno type="STC">Wing D823</idno>
+            <idno type="STC">ESTC R17218</idno>
+            <idno type="EEBO-CITATION">12546952</idno>
+            <idno type="OCLC">ocm 12546952</idno>
+            <idno type="VID">63079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63079)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 312:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A defensive vindication of the publike liturgy, established ceremonies, and setled patrimony of the Church of England against such as (putting themselves to an ill occupation) have unjustly impeached or oppugned them / by a peaceable sonne of the same church, no way addicted to novelty or innovation.</title>
+                  <author>Peaceable sonne of the same church.</author>
+               </titleStmt>
+               <extent>39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.R. for R.W. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Errata on p. 39.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy.</term>
+               <term>Church of England --  Customs and practices.</term>
+               <term>Church of England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63079:1"/>
+            <p>A DEFENSIVE VINDICATION OF THE Publike Liturgy, Eſtabliſhed Ceremonies, And ſetled Patrimony, OF THE CHURCH OF <hi>ENGLAND;</hi> Againſt Such as (putting themſelves to an ill occupation) have unjuſtly impeach<g ref="char:EOLhyphen"/>ed, or oppugned them.</p>
+            <p>By A peaceable Sonne of the ſame Church, no way addicted to Novelty or innovation.</p>
+            <q>If any man luſt to be contentious, we have no ſuch cuſtome, neither the Churches of God. <bibl>
+                  <hi>1</hi> Cor. <hi>11.16.</hi>
+               </bibl>
+            </q>
+            <q>Quarein praeciſione vultis magnificare nomen domini? quare duos populos ex uno vultis facere?</q>
+            <q>Why will you in a ſciſmaticall preciſencs magnifie the Name of God? Why will you make two divided nations, or people of one?</q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J.R.</hi> for <hi>R.W.</hi> and are to be ſold at the ſigne of the Kings-Armes in <hi>Pauls</hi> Church-yard. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:63079:2"/>
+            <pb n="3" facs="tcp:63079:2"/>
+            <p n="1">I <seg rend="decorInit">F</seg>Or the publike Liturgy of our Church, (which is the firſt thing I undertake to defend) ſome there be that except againſt it, becauſe it is a ſet
+<note n="a" place="margin">The beſt ſtra<g ref="char:EOLhyphen"/>tageme that Satan hath, who knoweth his king<g ref="char:EOLhyphen"/>dome to be no way more ſhaken then by the publique devoute pray<g ref="char:EOLhyphen"/>ers of Gods Church, is by traducing the form and man<g ref="char:EOLhyphen"/>ner of them to bring them in<g ref="char:EOLhyphen"/>to contempt, and ſo to ſhake the force of all mens devotion towards them: from this forge hath proceeded a ſtrange con<g ref="char:EOLhyphen"/>ceit, that to ſerve God with any ſet form of Common prayer is ſuperſtitious, <hi>Hooker lib.</hi> 5. <hi>eccleſ. polit.</hi> § 26.</note> preſcribed Liturgy, but theſe men who miſlike that any ſet form of Prayers ſhould be impoſed in the publike Ser<g ref="char:EOLhyphen"/>vice of God, may do well to conſider that God himſelf not onely allowed, but preſcribed ſet forms of Prayer to the Prieſts of the old Law, teaching them with what form of words they ſhould bleſſe his people, <hi>Numb.</hi> 6.23. and de<g ref="char:EOLhyphen"/>precate his Judgements, <hi>Ioel</hi> 2.17. <hi>Hoſea</hi> 14.2. that our bleſſed Saviour in the new Teſtament, preſcribed a form of prayer to his Apoſtles, as St. <hi>Iohn</hi> the Baptiſt, his immediate fore-runner had formerly done to his diſciples, <hi>Luke</hi> 11.2. that the prayer which <hi>Moſes</hi> pronounced at the removall, and reſting of the Ark was a ſet form of Prayer, <hi>Numb.</hi> 10.35, 36. that all the Pſalms of <hi>David</hi> are prayers, or praiſes of God in ſet
+<pb n="4" facs="tcp:63079:3"/>forms, and words, anſwering the length and number of Muſick notes; that Saint <hi>Paul</hi> often uſed the ſame ſet form of prayer without varia<g ref="char:EOLhyphen"/>tion, <hi>Rom.</hi> 1.7. 1 <hi>Cor.</hi> 1.3. 2 <hi>Cor.</hi> 1.2. <hi>Gal.</hi> 1.3. <hi>Epheſ.</hi> 1.2. and it is vain to think that a ſet form of prayer ſhould not be as pleaſing, and accep<g ref="char:EOLhyphen"/>table unto God, as that which is varyed or that God ſhould be ſo delighted with varying of words and phraſes, that when we have the ſame ſuits and requeſts to make unto him day<g ref="char:EOLhyphen"/>ly: Yet we muſt alter our words and manner of asking, otherwiſe he will be diſpleaſed with our prayers: Surely our Saviour was of ano<g ref="char:EOLhyphen"/>ther minde, who beſt knew the minde of his heavenly Father, for though he had a better gift in praying than any man in the world, and could have varyed his words better than any other; yet when he had the ſame ſuit to make unto his father, he uſed the ſame words divers times, ſaying once, again, and yet a third time, <hi>Father, if it be poſsible, let this Cup paſſe from me, Matth.</hi> 26.44.</p>
+            <p>But, ſay theſe men, we cannot pray with the ſpirit, and uſe a ſet Form of Prayer: why not? There are but two acts of the ſpirit about pray<g ref="char:EOLhyphen"/>er, the one of direction, to direct us how to pray, the other of aſſiſtance, to aſſiſt us in pray<g ref="char:EOLhyphen"/>ing; and I hope thoſe that uſe preſcribed ſet Forms of Prayer, do pray by the direction of the ſpirit, as well as thoſe that uſe conceived extemporary prayers, nay, we are bound to
+<pb n="5" facs="tcp:63079:3"/>beleeve that the Spirit of God was rather with the
+<note n="b" place="margin">
+                  <hi>Carolus Mag<g ref="char:EOLhyphen"/>nus,</hi> I am ſure was of this be<g ref="char:EOLhyphen"/>lief, who would permit no pravers to be uſed but thoſe which were allowed by the Church <hi>orati<g ref="char:EOLhyphen"/>ones, quae abec<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſla probitae no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ici<g ref="char:EOLhyphen"/>antur Microlog. de <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eſ. obſerv. c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 5 <hi>&amp; conc. Carthag</hi> 3. which decreed, <hi>Can</hi> 23. <hi>quaſ<g ref="char:EOLhyphen"/>cu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>que ſibi pre<g ref="char:EOLhyphen"/>ces a'iquis deſeri<g ref="char:EOLhyphen"/>bit non iis <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ta<g ref="char:EOLhyphen"/>tur, niſip<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ius eas cum iaſtru<g ref="char:EOLhyphen"/>ct<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oribus cont<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rit,</hi> that what prayers ſoever a man framed for himſelf, he ſhould firſt ac<g ref="char:EOLhyphen"/>quaint thoſe that were wiſe and learned with them, be<g ref="char:EOLhyphen"/>fore be pre<g ref="char:EOLhyphen"/>ſumed to uſe them, and the reaſon is given in the twelfth Canon of the <hi>Mil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vita<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> C<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ell. N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> forte aliquid c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntra fidem v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l pe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gno <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, vel per minus ſtud<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um ſit com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſitum.</hi> Leaſt by a ſudden ext<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mporall effuſion of prayer without good advice, and medication ſome expreſſions might ſlip from him, either thorough ignorance, or careleſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſſe, which were not conſon<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to the faith of Chriſts Church, no, <hi>no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>fall M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ieſty of Almighty God.</hi>
+               </note> Church, to direct her how to conceive, frame, and pen ſet Forms of Prayer for the behoof of all her children, than with thoſe, who preferre their ſudden undigeſted pray<g ref="char:EOLhyphen"/>ers, before the excellently conceived, and well digeſted Prayers, or Collects of the Church.</p>
+            <p>And for the ſecond, why may not the Spirit of God aſſiſt us in praying by ſet Forms of of Prayer, as well as in reading ſet Chapters and Leſſons, or in ſinging ſet Pſalms? <hi>Dic Quin<g ref="char:EOLhyphen"/>ti hunc colorem.</hi>
+            </p>
+            <p>Others there be, who allowing ſet Forms of Prayer, yet will by no means allow of ours; but therein they ſhew themſelves to be of a differ<g ref="char:EOLhyphen"/>ent judgement from the glorious Martyrs, and other holy Divines of our Church, who did highly approve of our Communion-book,
+<note n="c" place="margin">As it was then ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t forth by King <hi>Edw</hi> 6.</note> and were ready to maintain againſt all oppoſers, that it was in no thing repugnant, but in all things agreeable to the Word of God.</p>
+            <p>Archbiſhop <hi>Cranmer.</hi>
+               <note n="d" place="margin">
+                  <hi>Acts</hi> and <hi>Mon. fol.</hi> 1571.</note> offered (ſo he might have the aſſiſtance of <hi>Peter Martyr,</hi> and a few o<g ref="char:EOLhyphen"/>thers) to make it evident, and to prove againſt
+<pb n="6" facs="tcp:63079:4"/>all gain-ſayers, that were of a contrary opini<g ref="char:EOLhyphen"/>on, <hi>That all things in our Communion-Book, were agreeable to the Word of God, correſpondent to that which Chriſt and his Apoſtles delivered, and the Pri<g ref="char:EOLhyphen"/>mitive Church obſerved.
+<note n="e" place="margin">
+                     <hi>Librum ſacro<g ref="char:EOLhyphen"/>rum quantum potui per inter<g ref="char:EOLhyphen"/>pretem cognovi, nec quicquam in illis de<g ref="char:EOLhyphen"/>prchendi quod non ſit ex verbo d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>id ſumptum aut ſaltem ci <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on adverſetur com<g ref="char:EOLhyphen"/>mode acceptum Bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. inter ſcrip. Auglic. p.</hi> 456.</note> Martin Bucer</hi> being in<g ref="char:EOLhyphen"/>treated to give his judgement of our Service-Book, reſolved upon mature deliberation, that there was nothing therein contained, <hi>which was not taken out of the Word of God, or at leaſt, conſonant to Gods Word, being rightly underſtood, and not miſ<g ref="char:EOLhyphen"/>interpreted.</hi> Biſhop <hi>Ridley</hi> in a Letter of his to D<hi rend="sup">r</hi>. <hi>Grindall</hi> (who was afterward Archbiſhop of <hi>Canterbury</hi>) writeth thus of the Service-book, <hi>The Church of</hi> England <hi>of late, ſaith he, hath the whole Service, all common and publike Prayers ordain<g ref="char:EOLhyphen"/>ed to be ſaid, and heard in the Congregation, framed and faſhioned to the true veins of holy Scripture:</hi> And when he underſtood from D<hi rend="sup">r</hi>. <hi>Grindall,</hi> who was then beyond Sea, how M<hi rend="sup">r</hi>. <hi>Knox</hi> took many cavelling exceptions at our Liturgy, to the great diſturbance of the Church there;
+<note n="f" place="margin">The copy of the letter is extant in D<hi rend="sup">r</hi> 
+                  <hi>Cowcls</hi> brief anſwer to M<hi rend="sup">r</hi> 
+                  <hi>Burges, Reaſons p.</hi> 69.</note> he wrote back unto him in this milde, yet paſſion<g ref="char:EOLhyphen"/>ate manner: <hi>Alas that our brother</hi> Knox <hi>cannot bear with our Book of Common-Prayer, in matters a<g ref="char:EOLhyphen"/>gainſt which, although I grant a man of wit and learn<g ref="char:EOLhyphen"/>ing may finde to make ſome colourable exceptions: yet I ſuppoſe he cannot ſoundly by the Word of God, diſ<g ref="char:EOLhyphen"/>prove any thing in it.</hi> Biſhop <hi>Iewell</hi> in his Apolo<g ref="char:EOLhyphen"/>gy for the Church of <hi>England,</hi> profeſſeth,
+<note n="g" place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>el. Apol. pro cee<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſia. Angl. Acceſſimus quantum maxi<g ref="char:EOLhyphen"/>me potuimus, ad ceeleſiam Apoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rum &amp; v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te<g ref="char:EOLhyphen"/>vum Catholico<g ref="char:EOLhyphen"/>rum Epiſcoporum &amp; Patrum, nec tan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um doctrinam noſtram ſed etiam Sacramenta, precumque publicarum formam ad corum r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us &amp; inſtituta di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eximus.</note> 
+               <hi>That
+<pb n="7" facs="tcp:63079:4"/>in our Doctrine, Diſcipline, and Service, we come as neer as we could poſsibly, to the Apoſtolicall Church, and ancient Catholike Biſhops.</hi> M. <hi>Dering,</hi> in a book of his called, A ſpare reſtraint, makes this challenge to M<hi rend="sup">r</hi>. <hi>Harding, look, ſaith
+<note n="h" place="margin">
+                     <hi>Derings</hi> an<g ref="char:EOLhyphen"/>ſwer of <hi>Hard<g ref="char:EOLhyphen"/>ings, Epiſt. t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uell. fol.</hi> 5.</note> he, if any line be blameable in our Service, and take hold of your advantage; our Service is good and godly, every tittle grounded upon holy Scripture, and with what face dare you call it darkneſſe?</hi> Laſtly, D<hi rend="sup">r</hi>. <hi>Taylor</hi> was ſo in love with the Service-Book, <hi>that he
+<note n="i" place="margin">
+                     <hi>Acts</hi> and <hi>Mon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fol.</hi> 1385. I might adde to theſe that at <hi>Franckford,</hi> when ſome ex<g ref="char:EOLhyphen"/>iles diſliked our Service Book, and ſome of our Church ceremonies, other moſt re<g ref="char:EOLhyphen"/>verend perſons ſtood ſtrongly for them, as <hi>Thomas Leaver, Iohn Mullins, Iohn Parkhurſt, Lausence Hum<g ref="char:EOLhyphen"/>frey, Iames Pil<g ref="char:EOLhyphen"/>kington. Alex<g ref="char:EOLhyphen"/>ander Nowell, Iames Haddon, Edwin Sands, Ed<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>d Grind<g ref="char:EOLhyphen"/>all, &amp;c.</hi> who being exiles at <hi>Franckford,</hi> wrote to the like exiles at <hi>Zurick,</hi> perſwading them to ſtand to the death for defence of our Church ſervice and ceremonies, and Maſter <hi>Fox</hi> was one of them that ſubſcribed to the letter. Diſcourſe of the troubles at <hi>Franckford, Fol.</hi> 16, 17, 22, 23. &amp;c.</note> uſed it to his comfort all the time of his impriſonment, and at his Martyrdom, commended it, as the laſt token of his love, to his dear wife.</hi>
+            </p>
+            <p>And theſe men were in that age the Dia<g ref="char:EOLhyphen"/>monds of the Churches ring, and many of them ſealed the truth they held, not onely with danger and exile, but with their blood: Yet now he is but a mean ſilly man in repute, that cannot ſpy much ſuperſtition, much Popiſh traſh and idolatry in that godly book, which the holy Martyrs, and beſt learned men of our Church
+<note n="k" place="margin">And not onely of our Church but ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me alſo of forregin Churches, as <hi>Alexander Aleſius</hi> (a worthy Scotſman of great account and note) who much commends our Book of Common prayer, and the ordering of our Church according thereunto, calling it <hi>praeclariſſimum &amp; divinum factum,</hi> and he complaineth that any contentious mindes ſhould move any to miſlike it, and ſaith, <hi>that the contention of brethren about this Book comes from the divel,</hi> who failing one way ſeeks another way to do miſchief to the Church. <hi>Proem.</hi> before his tranſlation of the Common-prayer Book in <hi>Script. Anglican. Bucer. fol.</hi> 373 375.</note> then living, did highly commend, and approve to be in all things agreeable to the
+<pb n="8" facs="tcp:63079:5"/>Word of God, and to the moſt ancient and beſt reformed Liturgyes in all ages.</p>
+            <p>
+               <hi>Polycarps</hi> ſpeech ſhall end this point, <hi>O Deus in quae tempora reſervaſtinos? Oh God, for what times haſt thou reſerved us?</hi> wherein that Service of thine, which hath heretofore had the high ap<g ref="char:EOLhyphen"/>probation, applauſe and commendation of ma<g ref="char:EOLhyphen"/>ny learned Divines, and glorious Martyrs, is now in every Pariſh almoſt thorowout the Kingdome, neglected, vilified, contemned, as popiſh and ſuperſtitious, by perſons of mean quality, &amp; meaner knowledge. I beſeech thoſe who have power in their hand to redreſſe things amiſſe both in the Church and State, that they would not ſuffer this ſacred Form of Gods Service to be expoſed any longer to the careleſſe neglect, to the proud contempt and ſcorn of newfangled, and miſaffected perſons, whoſe particular exceptions againſt it, or any
+<pb n="9" facs="tcp:63079:5"/>paſſage in it, have received full, particular, abundant ſatisfaction, by the learned pens of
+<note n="l" place="margin">Many things our non-con<g ref="char:EOLhyphen"/>formiſts ſay are <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, many inſtances they give of things in our Com<g ref="char:EOLhyphen"/>mon-prayer, not agreeable as they pre<g ref="char:EOLhyphen"/>tend with the Word of God. It hath in their eye too great affinitie with the forme of the Church of <hi>Rome,</hi> it differeth too much from that which Churches elſewhere reformed allow and obſerve; it is not or derly read nor geſtured as beſeemeth; attire diſgraceth it; it requireth nothing to be done which a childe may not lawfully do; it hath a number of ſhort cuts or ſhreddings, which may be better called wiſhes, then prayers, it intermingleth prayings and readings, &amp;c. it is too long, and by that means abridgeth preaching, it appointeth the people to ſay after the Miniſter, it ſpendeth time in ſinging, and in reading the <hi>Pſalms</hi> by courſe from ſide to ſide, it uſeth the Lords-prayer too oft, the Song of <hi>Magnif. Beaedictus,</hi> and <hi>N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nc dimittis,</hi> it might very well ſpare, it hath the Letany, Creed of <hi>Athanaſius,</hi> and <hi>Gloria Patri,</hi> which are ſuperſluous, it craveth earthly things too much, ſome things it asketh unſeaſonably, as deliverance from thunder, and tempeſt when no danger is high. Some in too diffident manner, as that God would give us that which we for our unworthyneſſe dare not aske. Some which ought not to be deſired, as deliverance from ſudden death, riddance from all adverſity and the extent of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aving mercy towards all men; all which exceptions <hi>Hooker</hi> anſwereth punctually and fully, and ſo as may give any intelligent and indicious Reader, abundant ſatiſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>action, <hi>Lib</hi> 5. <hi>p</hi> 241, 242, <hi>&amp;c.</hi>
+               </note> 
+               <hi>Hooker, Cowell, Hutton, Fiſher,</hi> &amp;c.</p>
+            <p n="2">II Now ſecondly for the Ceremonies, as they are uſed in our Church, howſoever ſome do take offence at them, yet they can give no juſt offence: for we put no merit, no matter of ſalvation, no worſhip of God in them; we uſe them not for exerciſes of piety, but onely for
+<note n="m" place="margin">Theſe cere<g ref="char:EOLhyphen"/>monies are re<g ref="char:EOLhyphen"/>tained for a diſcipline and order, which (upon iuſt cau<g ref="char:EOLhyphen"/>ſes) may be al<g ref="char:EOLhyphen"/>tered and changed, and therefore are not to be eſtee<g ref="char:EOLhyphen"/>med equall with Gods Law: in the Preface before the Book of Common-prayer. Vain then and ig<g ref="char:EOLhyphen"/>norant is there doubt, that think our cere<g ref="char:EOLhyphen"/>monies are im<g ref="char:EOLhyphen"/>poſed as parts of Gods pro<g ref="char:EOLhyphen"/>per worſhip.</note> order, and decency, according to that gene<g ref="char:EOLhyphen"/>rall Church Canon of the Apoſtles, wherein he preſcribes that all things in the Church <hi>be done decently, and in order,</hi> 1 Cor. 14.40. which Apoſtolicall Canon being a Canon of Canons, by which all Eccleſiaſticall Canons are to be
+<note n="n" place="margin">
+                  <hi>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gnla eſt, ad quam omnia quae ad ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ernam po<g ref="char:EOLhyphen"/>litiam ſpectant, exigere conveait. Calv. in Loc.</hi>
+               </note> regulated and ſquared, cals for comeli<g ref="char:EOLhyphen"/>neſſe, and order in the Church, and requires that all outward duties of Gods publike wor<g ref="char:EOLhyphen"/>ſhip and ſervice, be performed in the face of the Church, after a decent, comely, and order<g ref="char:EOLhyphen"/>ly manner.</p>
+            <p>Comelineſſe becomes all actions, but more eſpecially religious actions, and is duely to be obſerved in all places, but chiefly in the Church, which is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the School of comely<g ref="char:EOLhyphen"/>neſſe,</hi> as <hi>Clemens Romanus</hi> calls it, <hi>lib.</hi> 8. <hi>cap.</hi> 31.</p>
+            <p>For the Church is Gods Houſe, the place of his ſpeciall preſence, and if men be carefull in the preſence chamber of an earthly King, to do nothing uncomely, or unbeſeeming the reſpect which they owe to ſo great a Majeſty, much
+<pb n="10" facs="tcp:63079:6"/>more ought we to be carefull in the Houſe of God, which is the preſence Chamber of the King of Kings, to do nothing uncomely or un<g ref="char:EOLhyphen"/>beſeeming ſo great, and ſacred a Majeſty.</p>
+            <p>And as all things in the Church are to be done decently, or in a comely faſhion, ſo are they to be done orderly, for where diſorder is, there is tumult and confuſion, but where order is, there is diſcipline and peace, tis S. <hi>Ambroſe</hi> gloſſe upon the forecited Canon of the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>by vertue of which Canon the Apoſtle gives power and authority</hi> to all Chriſtian Churches to make orders, to ordain rites, and ceremonies for the more decent, and orderly performance of Gods publike ſervice, and wills all who live under the Government of ſuch particular Churches obediently to conform themſelves to the orders of the Church wherein they live.</p>
+            <p>Firſt the former Rule or Canon preſcribed by the Apoſtle, is (ſaith <hi>Pareus</hi>) of very great importance, <hi>Et univerſaliter ad eccleſiam pertinens, and doth univerſally concern all Chriſtian Churches thoroughout the world, decorum enim &amp; ordinem eorum arbitrio relinquit, for it leaves all matters of outward order, and decency in the Church,</hi> to the free diſpo<g ref="char:EOLhyphen"/>ſall of Church Governours. When the Apo<g ref="char:EOLhyphen"/>ſtle ſaith <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Let all things be done, ritus externos in libertate noſtra ideo reliquit, ne putaremus culeum dei illis incluſum, he leaves the ordering of all externall or ceremonious rites in every particular
+<pb n="11" facs="tcp:63079:6"/>Church to their free power, and determination, leaſt we ſhould deeme them eſſentiall parts of Gods worſhip, and of abſolute neceſsity to ſalvation,</hi> ſaith <hi>Calvin,</hi> in the judgement then both of <hi>Calvin</hi> and <hi>Pare<g ref="char:EOLhyphen"/>us</hi> every Chriſtian Church hath warrant from the forecited Apoſtolicall Canon to ordain
+<note n="o" place="margin">Theſe things the Lord left to the liberty of every Church pattly becauſe they are not of the ſubſtance of his worſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p, but adiuncts onely; partly becauſe one form ther<g ref="char:EOLhyphen"/>of cannot fit every Country, but muſt be varyed, and applyed to ſe<g ref="char:EOLhyphen"/>verall nations and times, as ſhall be found moſt conveni<g ref="char:EOLhyphen"/>ent thus teach<g ref="char:EOLhyphen"/>eth S <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erome, E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſt.</hi> 28. con<g ref="char:EOLhyphen"/>cluding with this ſaying <hi>una<g ref="char:EOLhyphen"/>quaeque p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ovin<g ref="char:EOLhyphen"/>cia abundet in ſenſu ſuo,</hi> thus S. <hi>Auguſt. Epiſt.</hi> 86.118.119. and thus <hi>Zan<g ref="char:EOLhyphen"/>chius</hi> (the great reformed Schooleman) <hi>Tom.</hi> 8. <hi>loc.</hi> 16. <hi>de tradit. eccleſi<g ref="char:EOLhyphen"/>aſt. pag</hi> 821, <hi>&amp;c.</hi>
+               </note> externall rites and ceremonies, and to make eccleſiaſticall Lawes and Canons for the more decent and orderly performance of all reli<g ref="char:EOLhyphen"/>gious duties in their publike aſſemblyes.</p>
+            <p>That their is ſuch a power left to each Church, and to Church Governours it is evi<g ref="char:EOLhyphen"/>dent, for if every man might do what he liſt, and ſerve God at what time, in what place, after what manner he pleaſed, or according to his own humour and fancy; what other can be the iſſue, and ſequell of ſuch licentious, and unreſtrained liberty, but infinite diſtraction, and diſorderly confuſion in the Church. For the preventing of which, we muſt of neceſſity grant, if we will be reaſonable, that each Chriſtian Church hath power to make lawes, and to ordain <hi>rites for decency and orders ſake,</hi> and to command, and force her children obedient<g ref="char:EOLhyphen"/>ly to obſerve them.</p>
+            <p>And their is not any reformed Church but is of this minde, they all with one conſent hold this opinion, that it is not neceſſary eccleſiaſti<g ref="char:EOLhyphen"/>call rites, and ceremonies ſhould be in all pla<g ref="char:EOLhyphen"/>ces alike, but that they may be divers in divers Countries and Churches, ſo that nothing be
+<pb n="12" facs="tcp:63079:7"/>ordained againſt Gods Word, that this is the judgement of our Church is plain from the 34. Article, that all reformed Churches are of the ſame judgement with ours, M. <hi>Rogers</hi> in his explication of that Article makes it manifeſt by particular inſtances.</p>
+            <p>And reflect your eyes back to the primitive times, and you ſhall finde that even in thoſe dayes every particular Church was allowed to have thoſe orders, and ceremonies, which ſhe in her wiſedome thought moſt fitting, and convenient. So we read that ſome Churches uſed to receive the Sacrament thrice, others twice a week, others onely upon the Lords day, ſome Churches gave the Euchariſt in the morning, ſome at even <hi>Aug. Epiſt,</hi> 118. <hi>ad Ian.</hi> ſome Churches did dip the infant baptized thrice in the water, others but once onely as <hi>Tertullian</hi> witneſſeth, <hi>de Coron. milit. cap.</hi> 3. all which Churches notwithſtanding the diverſity of theſe, or the like ceremonies, were the true Churches of God, and held Union and Communion one with another, <hi>Diſſonantia in his non ſuſtulit conſonantiam fidei,</hi> they knew that although <hi>the Kings daughter were all glorious within, yet her cloathing was wrought about with needle work of divers colours,</hi> by which <hi>needle work of divers</hi> colours,
+<note n="q" place="margin">
+                  <hi>Sit una ſi les univerſae, quae <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>iqu: dilatatul, eccleſiae tanquam intus in mem<g ref="char:EOLhyphen"/>mis, etiam ſi ipſa ſidei unitas quibuſd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m di<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſis obſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rvatio <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> celebratur, qui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>udo mo<g ref="char:EOLhyphen"/>do quod in ſide vorum eſt, impeditur Omnis enim pu<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>udo filiae Regis intrinſecus, illae autem obſervati<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es quae variae celebrantur, in eius veſte intelliguntur, unde dicitur in fimb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iis au<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eis circum<g ref="char:EOLhyphen"/>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>icta v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ricta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dea quoque veſtis ita diverſis celebratiombus varietur, ut non adverſis con<g ref="char:EOLhyphen"/>tention<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bus d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſipetur. Aug. Epiſt</hi> 86. <hi>ad caſul.</hi>
+               </note> S. <hi>Auguſtine</hi> underſtands the diverfity
+<pb n="13" facs="tcp:63079:7"/>of ceremonies in particular Churches, and if the judgement of one or two Churches muſt be hearkened unto, and may not be deſpiſed, or contradicted raſhly: much more ought the judgement of all reformed Churches to be re<g ref="char:EOLhyphen"/>garded.</p>
+            <p>Certainly for a few perſons to call in queſti<g ref="char:EOLhyphen"/>on that which hath been held for a truth at all times in the true Churches of God, argues ſuch ſingular perſons to be ſingularly proud, and poſſeſſed with a ſpirit of contradiction.</p>
+            <p>I will conclude this point with the
+<note n="q" place="margin">This is not the doctrine of <hi>Calvin</hi> onely, but it is the conſtant do<g ref="char:EOLhyphen"/>ctrine of all O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thodoxe Divines and Churches both ancient and modern, that God hath ſuf<g ref="char:EOLhyphen"/>ficiently and perſpicuouſly del<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vered the whole ſub<g ref="char:EOLhyphen"/>ſtance of his own proper worſhip, and all things ne<g ref="char:EOLhyphen"/>ceſſary to mans ſalvati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in the holy Scr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<g ref="char:EOLhyphen"/>tures; and that theſe things muſt evermore be unalterably the ſame in all Churches, but the cir<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>ſtances and ceremonies of his publike worſhip, as of place time, ornaments, geſtu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e; &amp;c he hath left to the wiſedome of every nationall Church, to determine and make choice of, ſo that all things be done according to the Canon of Canons, delivered by S. <hi>Paul,</hi> 1 <hi>Cor.</hi> 14.40.</note> judge<g ref="char:EOLhyphen"/>ment and reſolution of judicious <hi>Calvin,</hi> who in the fourth of his inſtitutions, <hi>Cap.</hi> 10. § 30. reſolves thus, <hi>Dominus totam verae juſtitiae ſum<g ref="char:EOLhyphen"/>mam, &amp;c. God ſaith he, hath in the Scripture evident<g ref="char:EOLhyphen"/>ly ſet down the whole ſum of true righteouſneſse, and all the eſſentiall parts of his worſhip, without omitting any thing neceſſary to ſalvation, and in thefe he is the onely Maſter to be hearkned unto: but as for outward Diſcipline it pleaſed him not to preſcribe punctually, and in particular what we ſhould follow foreſeeing that this dependeth upon the divers condition, and ſtate of times, knowing very well that one form or faſhion in theſe externals would not fit all ages, in this caſe there<g ref="char:EOLhyphen"/>fore we are to have recourſe unto the generall rules of order and decency, [quae pro moribus unjuſcujuſque
+<pb n="14" facs="tcp:63079:8"/>gentis &amp; ſeculi variè accommodari debent ad eccleſiae aedificationem]</hi> which are diverſly to be accom<g ref="char:EOLhyphen"/>modated according to the manners of ſeverall Nations and ages as ſhall be moſt for the be<g ref="char:EOLhyphen"/>hoof, and edification of the Church.</p>
+            <p>Now as particular Churches have full pow<g ref="char:EOLhyphen"/>er, authority, and Commiſſion to make Eccleſi<g ref="char:EOLhyphen"/>aſticall laws and conſtitutions, and to preſcribe Rites and Ceremonies for the more decent, and orderly performance of religious duties in their ſacred aſſemblies, by vertue of the former Apoſtolicall Canon, ſo by the regular pre<g ref="char:EOLhyphen"/>ſcript of the ſame Canon, they that live under the government of ſuch Churches, are to con<g ref="char:EOLhyphen"/>form themſelves to the orders of the Church in which they live, and reſpectively with ready obedience to obſerve the ſame.</p>
+            <p>S. <hi>Auſtin</hi>
+               <note n="r" place="margin">
+                  <hi>Diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iplina nul<g ref="char:EOLhyphen"/>la eſt in his melior gravi prudenti<g ref="char:EOLhyphen"/>que Chriſtiano quam ut eo mo<g ref="char:EOLhyphen"/>do agat quo agere viderit eccleſiam ad quamcunque ſorte devenerit. Auguſt. Epiſt</hi> 118. <hi>ad Caſulan.</hi>
+               </note> ſaith, That there is no rule of diſ<g ref="char:EOLhyphen"/>cipline ſo fit for a grave and prudent Chriſtian, to regulate his carriage by, then to do after that manner as he ſeeth the Church to do unto which it falleth out that he ſhall chance to come, and
+<note n="ſ" place="margin">
+                  <hi>Tu ad quam forte eccleſiam veneris eius mo<g ref="char:EOLhyphen"/>vem ſerva ſi cuiqua<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> non vis eſſe ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>andalo nec quemquam tibi. Idem. Ibid. ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ex <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re Ambroſii.</hi>
+               </note> that to whatſoever Church he cometh, he ought to obſerve the cuſtomes, or ceremonies which be there in uſe, if he will not give ſcandall unto others, nor receive ſcandall from others.
+<note n="t" place="margin">
+                  <hi>Quod neque contra fidem, neque contra bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>os mores iniungitur, indifferenter eſt habendum, &amp; pro eorum inter quos vivitur ſocietate ſervandum eſt. Idem. Ibid.</hi>
+               </note> Provided alwayes, that the cuſtomes their uſed, be neither oppo<g ref="char:EOLhyphen"/>ſite to the faith, nor yet contrary to good
+<pb n="15" facs="tcp:63079:8"/>manners: which counſell S. <hi>Ambroſe</hi> gave to <hi>Monica</hi> the mother of S. <hi>Auguſtine,</hi> to direct her how ſhe ought to behave her ſelf in the Church of God, and whoſoever he be that will not obſerve the decrees of Church Governours <hi>in his de quibus nihil certi ſtatuit Scriptura,</hi> in thoſe things concerning which the holy Ghoſt hath ſet down, no certainty in the Scripture, he offendeth God, who hath given power to his Church, to enjoyn the obſervation of ſuch ceremonies, which power were fruitleſſe, and to no purpoſe, if men might do what they liſt, contrary to the ceremoniall conſtitutions of the Church.</p>
+            <p>But is not this an abridgement of Chriſtian liberty, to reſtrain and limit the uſe of a thing indifferent? No certainly for to make the re<g ref="char:EOLhyphen"/>ſtraint of the outward man in matters indiffe<g ref="char:EOLhyphen"/>rent, an impeachment of Chriſtian liberty, what is it elſe but even to bring Anabaptiſme, Anarchy, rebellion, popular parity, diſorder, and confuſion both into the Church, and State, and to diſſolve the bond of ſubjection, and obedience to lawfull authority.</p>
+            <p>Conſider (I pray you) wherein can the pow<g ref="char:EOLhyphen"/>er and authority of ſuperiours properly conſiſt, and the duety, and obedience of inferiours be ſhewed towards them, if not in theſe indiffe<g ref="char:EOLhyphen"/>rent, and arbitrary things, for things abſolutely
+<pb n="16" facs="tcp:63079:9"/>
+               <note n="u" place="margin">
+                  <hi>Hoc adverten<g ref="char:EOLhyphen"/>dum quod quae<g ref="char:EOLhyphen"/>dam ſuat pura bona quaedam pura mala, &amp; in his nullam deberi hominibus obedi<g ref="char:EOLhyphen"/>entiam, quoniam nec illa omitten<g ref="char:EOLhyphen"/>da ſunt, etiam cum prohibentur, nec iſta vel cum iub<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntur commit<g ref="char:EOLhyphen"/>tenda inter hoc ſunt media quae<g ref="char:EOLhyphen"/>dam quae pro modo, loco tem<g ref="char:EOLhyphen"/>pore vel perſona &amp; mala poſſunt eſse &amp; bona, &amp; in his lex poſita eſt obedientiae, in his fas non eſt noſtrum ſenſum ſententiae praeſcri<g ref="char:EOLhyphen"/>bere magiſtro<g ref="char:EOLhyphen"/>rum, Bern. epiſt.</hi> 7.</note> neceſſary, as preciſely commanded of God, we are bound to do, whether humane autho<g ref="char:EOLhyphen"/>rity require them or not, and things abſolute<g ref="char:EOLhyphen"/>ly ſinfull, as preciſely, and determinately for<g ref="char:EOLhyphen"/>bidden by God, we are bound not to do, whe<g ref="char:EOLhyphen"/>ther humane authority forbid them or not: there are therefore none other things left, wherein to expreſſe properly the obedience due to ſuperiour authority, but things in their own nature indifferent, and whoſoever ſhall interpret the determination of Superiours in the uſe of things indifferent to be prejudiciall to Chriſtian liberty, or under that colour ſhall exempt Inferiours from their obedience to ſuch determinations, he is one of thoſe (ſaith a learned Divine of our Church) of whom S. <hi>Iude</hi> ſpeaks, that <hi>diſpiſeth Government, Iude</hi> 8. and he teacheth otherwiſe then Saint <hi>Peter</hi> did, who wils us <hi>to ſubmit our ſelves to every ordinance of man,</hi> 1 <hi>Pet.</hi> 2.13. and contrary alſo to the doctrine of S. <hi>Paul,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> D. <hi>Sanderſon.</hi>
+               </note> who tels us that we muſt needs be ſubject, not onely for fear, but for conſcience alſo, <hi>Rom.</hi> 13.5.</p>
+            <p>
+               <q>And what probable reaſon can any man give, why a childe is bound to obey his Fa<g ref="char:EOLhyphen"/>ther, or a ſervant his Maſter, when he limits him in the uſe of a thing indifferent; and we ſhould not be bound to ſubmit our ſelves to our Superiors appointment in the like things, when as it cannot be denyed, but Superiors have the ſame authority, for the peaceable
+<pb n="17" facs="tcp:63079:9"/>ordering of the Church, and Common<g ref="char:EOLhyphen"/>wealth, that fathers, and maſters, have over there children, and ſervants, for the order<g ref="char:EOLhyphen"/>ing of their families. Surely but that the Scripture hath foretold there ſhall, and ever will be differences, ſidings, and partakings in the Church, 1 <hi>Cor.</hi> 11.19. a man would wonder, how ever it ſhould ſink into the heads of ſober underſtanding men to deny either the power in Superiours to ordain, or the neceſſity of inferiours to obey the lawes and conſtitutions of the Church touching times, places, veſtments, geſtures, and other ceremoniall circumſtances, requiſite to the more decent orderly, and ſolemn perfor<g ref="char:EOLhyphen"/>mance of Gods publike worſhip and ſervice.</q>
+            </p>
+            <p>Our Church, I am ſure is of another judge<g ref="char:EOLhyphen"/>ment, for it is the Tenet of our Church in the thirtieth Canon, <hi>That things of themſelves, and of their own nature indifferent, do in a ſort alter their natures, when they are commanded or forbidden by a lawfull Magiſtrate.</hi> And therein it teacheth right<g ref="char:EOLhyphen"/>ly for in ſuch matters of a middle or indiffe<g ref="char:EOLhyphen"/>rent nature, <hi>nec juſsio, nec prohibitio principum aut praelatorum eſt contemnenda, neither the Commande<g ref="char:EOLhyphen"/>ment, nor prohibition of Princes or Prelates is to be contemned</hi> (ſaith S. <hi>Bernard, Epiſt.</hi> 7.) <hi>Sed quic<g ref="char:EOLhyphen"/>quid vice dei praecipit homo, quem pro deo habemus, tanquam deum audire debemus. But whatſoever in things of this nature man commandeth, who is in the place of God, we are bound to obey as God,</hi> (ſaith the
+<pb n="18" facs="tcp:63079:10"/>ſame Father) <hi>ipſum quem pro deo habemus, in his quae apertè, non ſunt contra de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, audire debemus, Gods vicegerents muſt be heard and obeyed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n all things, that are not manifeſtly
+<note n="y" place="margin">
+                     <hi>Nullius prohi<g ref="char:EOLhyphen"/>biti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> valet obvi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>aeccptis, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uſsio praeiudicare pro<g ref="char:EOLhyphen"/>hibitis. Ber<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. ubi ſupra.</hi>
+                  </note> contrary to the revealed Will of God.</hi> And ſuch a limitation in the uſe of things indifferent, brings no diminution to our Chri<g ref="char:EOLhyphen"/>ſtian freedome or liberty which is ſeated in the minde, or judgement, but if we will draw, and extend our liberty unto a freedome of actions, thinking that we may do what we liſt in things indifferent,
+<note n="z" place="margin">Some miſlike our Church<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es becauſe no where com<g ref="char:EOLhyphen"/>manded in Sc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iptu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, be <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>o: no more a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hoſe which they <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e: is the Cap. or Surpleſſe, no where com<g ref="char:EOLhyphen"/>manded? no more is the night cap, or cleak, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>kn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g, no where commanded at the recei<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nion? <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is ſit<g ref="char:EOLhyphen"/>ting o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtand<g ref="char:EOLhyphen"/>ing, and ſo of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> are any of theſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>bid <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Scripture?</note> without controul, or without any reverence, or regard, unto the Magiſtrates orders, or to the Churches decrees, our liber<g ref="char:EOLhyphen"/>ty in the end will prove a licentious diſtur<g ref="char:EOLhyphen"/>bance both of the Church and ſtate.</p>
+            <p>Thoſe men then go quite contrary to work, even to the fearfull purling of their own, and other mens conſciences, who uſe to argue in this manner. This I have no warrant to do, for where is it commanded? Whereas they ought rather to argue thus, this I have good warrant to do, for my Superiours command me to do it, and being no where expreſſely forbidden in the Word, I may lawfully, nay I muſt of neceſſity obey my Superiours in every thing they command, that is not repugnant to the Word of God: but it is not repugnant to the Word of God, to wear a Surpleſſe to ſigne the childe with the ſigne of the croſſe at the time of Baptiſme, according to the ancient uſe in Primitive and purer times, to kneel at the re<g ref="char:EOLhyphen"/>ceiving
+<pb n="19" facs="tcp:63079:10"/>of the holy Communion, to ſtand up at the recitall of the Creed, or to uſe any o<g ref="char:EOLhyphen"/>ther reverend Geſture preſcribed by the Church. If theſe be any where forbidden in the Scripture, let the places be ſhewn (as for farre fetcht, and fallible deductions, I value them not) let one text, or tittle of Gods Word be produced, where all theſe, or any cere<g ref="char:EOLhyphen"/>mony appointed to be uſed in our Church, is forbidden, and I for my part will never uſe it, though I ſhould hazard the diſpleaſure of all my Superiours, by forbearing the uſe of it; but if it cannot be ſhewn, that theſe things are any where forbidden, the uſe of them is warrant<g ref="char:EOLhyphen"/>able, and made lawfull by the Word of God, and being commanded by lawfull authority, I am bound to uſe them, becauſe God commands me to ſubmit to every ordinance of man, 1 <hi>Pet.</hi> 2.13. and to obey my Superiours in things lawfull, <hi>Heb.</hi> 13.17.</p>
+            <p>Neither will it help the Patrons of licenti<g ref="char:EOLhyphen"/>ous libertiniſme a whit to ſay, that ſome of the forenamed ceremonies were ſuperſtitiouſly abuſed by the Papiſts: be it ſo, yet they can<g ref="char:EOLhyphen"/>not deny, but that they were uſed in the Church long before popery did bear ſway, and the abuſes mixt with them by the Romaniſts we affect not, we allow not, we defend not, but have purged them from their abuſe, and reſtored them to their Primitive uſe, and things abuſed, may be well uſed, and need not
+<pb n="20" facs="tcp:63079:11"/>to be clean aboliſhed, <hi>Our worthy Anceſtors (ſaith S. Auſtin) took the Temples dedicated to Idols, and made them ſerve for holy Oratories, or houſes of pray<g ref="char:EOLhyphen"/>ers, they took the revenews which were devoted to the Gods of the Gentiles, and converted them to the main<g ref="char:EOLhyphen"/>tenance of Gods Miniſters.</hi> And that holy Father ſaw no <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ciſme or incongruity in it, <hi>Hoc de illis ſit, quod de ipſis hominibus cum ex ſacrilegis &amp; impiis in veram rel gionem immutantur. The change of them from an impious to a pious uſe, was in his judge<g ref="char:EOLhyphen"/>ment, but like the change which is wrought in men, when of bad, they become good, of Sacrilegious, religi<g ref="char:EOLhyphen"/>ous. Auguſt. epiſt.</hi> 154. where he gathers out of <hi>Deut.</hi> 7.25. that the gold, ſilver, and other rich o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>namen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of Idols may not be taken to mens private uſes, leaſt they ſhould ſeem to deſtroy the Idols for covetouſneſſe, not for piety: yet ſuch things may be converted to Gods ſer<g ref="char:EOLhyphen"/>vice, as wicked Idolatrous men may be con<g ref="char:EOLhyphen"/>vert<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſervice, as the water of Fountains dedicated to falſe gods, may be uſed for Bap<g ref="char:EOLhyphen"/>time, as Bels rung to the ſervice of Idols, may be rung and uſed to the true Gods ſervice; and this he further confirmeth by <hi>Ioſhua,</hi> his preſer<g ref="char:EOLhyphen"/>ving the Silver, Gold, veſſels of Braſſe, and Iron,
+<note place="margin">Ioſh. 6.19.24.</note> uſefull for Gods ſervice, to be kept in Gods Treaſury, when all other things in the facking of <hi>Icricho,</hi> were accurſed and deſtroy<g ref="char:EOLhyphen"/>ed: and <hi>Gideons</hi> ſacrificing a Bullock unto God, and burning it with the wood of the grove dedicated to <hi>Baal,</hi> by Gods own ap<g ref="char:EOLhyphen"/>pointment.
+<pb n="21" facs="tcp:63079:11"/>
+               <hi>Iudges</hi> 6.25.26. the ſacred Veſſels of the Temple had been fowly abuſed in <hi>Baby<g ref="char:EOLhyphen"/>lon</hi> by <hi>Nabuchadnezzar,</hi> and <hi>Baltazar,</hi> yet when <hi>Cyrus</hi> had given Commandement for the reſto<g ref="char:EOLhyphen"/>ring of them again, <hi>Zerubhabel</hi> made no ſcruple to imploy them in there former holy uſes. The Magicians had abuſed the Starres, yet God made uſe of a Starre to conduct them unto Chriſt the Athenians had abuſed the <hi>Altar,</hi> that was dedicated <hi>to the unknown god,</hi> and yet Saint <hi>Paul</hi> made uſe of an inſcription written upon that Altar, to preach unto them the God which they knew not. Shall we (with <hi>Lycur<g ref="char:EOLhyphen"/>gus</hi>) pluck up the Vines, becauſe ſome will be drunk with Wine? or with <hi>Cotta</hi> in <hi>Tully,</hi> con<g ref="char:EOLhyphen"/>demn reaſon, becauſe ſome have made uſe of it to pleade an ill cauſe? No, where <hi>crimen non eſt in rebus, ſed in vitio utentis,</hi> the fault is not in the thing, but in him that uſeth it, there we may apply it to a right uſe when we have re<g ref="char:EOLhyphen"/>moved the abuſe.</p>
+            <p>But were the impugners of our Church cere<g ref="char:EOLhyphen"/>monies put to it, they would finde it a very hard task to prove that any one individuall, or particular ceremony uſed in our Church, hath been at any time abuſed by the Papiſts. For thoſe Surpleſſes, and other veſtments which we wear, thoſe particular croſſings wherewith we ſigne Infants at the time of their Baptiſme, <hi>in token that they ſhould not be aſhamed, to confeſſe the faith of Chriſt crucified, but manfully fight under his
+<pb n="22" facs="tcp:63079:12"/>Banner, againſt the world, the fleſh, and the Devil, and continue his faithfull ſouldiers, and ſervants, unto their lives end,</hi> were made long ſince popery was baniſhed out of the Church, and ſo could not be ſuperſtitiouſly abuſed by papiſts, unleſſe they abuſed them before they had a being, or were in <hi>rerum natura.</hi>
+            </p>
+            <p>If any then take cauſeleſſe offence at the uſe of ſuch <hi>innocent ceremonies,</hi> (as they are rightly ſtyled by the reverend and learned Biſhop of <hi>Dureſme</hi>) it is an offence taken, not given, and he that taketh offence where none is given, muſt anſwer for it both as the giver, and as the taker; all that we can do, is to be ſorry for it, that they ſhould be offended without juſt cauſe, but we may not redeem the offence of private perſons, by our diſobedience to publike Go<g ref="char:EOLhyphen"/>vernous, for the rule is certain, that where lawfull authority determineth our liberty, their the reſpect of private ſcandall ceaſeth; and that reſtraint which proceedeth from ſpeciall duety, is Superiour to that which proceedeth but from common charity, the duties which we owe to our Governours by way of juſtice, are more ſtrictly obligatory, then thoſe which we owe to private perſons onely by way of charity, as I could prove by many convincing arguments, were it needfull.</p>
+            <p>For a cloſe and up ſhot of this point, I wiſh from my heart that men now a dayes, had more of the Spirit of conformity, and obedience to
+<note n="a" place="margin">In his Book of the three Innocent Co<g ref="char:EOLhyphen"/>remonies.</note>
+               <pb n="23" facs="tcp:63079:12"/>the conſtitutions and commands of lawfull authority, and that they would reſpectively obſerve the preſcribed orders, and ceremo<g ref="char:EOLhyphen"/>nies of the Church, according to the Churches preſcription, which they may do without pre<g ref="char:EOLhyphen"/>judice to their Chriſtian liberty, without dan<g ref="char:EOLhyphen"/>ger of idolatry, ſuperſtition, or giving any the leaſt juſt occaſion of ſcandall, and which they cannot refuſe to do, but they muſt become guilty of diſobedience, irregularity, and of non-conformity to the
+<note n="b" place="margin">Our ceremo<g ref="char:EOLhyphen"/>nies make the very outward face of our Church, as like as may be, to the moſt an<g ref="char:EOLhyphen"/>cient, and pu<g ref="char:EOLhyphen"/>reſt Churches which yeelded ſo many thou<g ref="char:EOLhyphen"/>ſand Martyrs, for the teſti<g ref="char:EOLhyphen"/>mony of the truth, in their times, <hi>Iud. A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ol.</hi>
+               </note> ancient Church in the primitive and purer times, who uſed all or moſt of theſe ceremonies which we uſe, in the ſame manner that we uſe them, and ſhall we defert, and condemn Antiquity to pleaſe a few nove<g ref="char:EOLhyphen"/>liſts, ill affected to the diſcipline of our Church, who under a pretence <hi>of hating Idols, perſwade men to commit ſacrilege,</hi> to rob God of his due ſervice, and the Church
+<note n="c" place="margin">Malach 38. Will a man <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ob God? yet ye have rob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed me, but ye ſay wherein have we robbed thee? in tithes and offerings.</note> of her patrimony which cannot ſafely be alienated or applyed to any other uſe then that, for which it was principally intended, as I undertook to ſhew in the third place:</p>
+            <p n="3">III. It is well known, and confeſſed that the ſtate of the Clergy, in every good Common<g ref="char:EOLhyphen"/>wealth hath had its lot, and portion not onely ſpirituall in the Lord, but alſo temporall in the Common-wealth, being a ſtate of men, as of the beſt deſert, if they do their duties: ſo not to be fed by the Aire, as the Cameleons are, but by the fruits, and increaſe which proceed
+<pb n="24" facs="tcp:63079:13"/>from the earth, and other tithes, and offerings, and therefore they have had allotted them by the law of nature, as <hi>Melchiſedech</hi> had <hi>Gen.</hi> 14.20. by the law of <hi>Moſes,</hi> as the Prieſts had, <hi>Levit.</hi> 27.32. <hi>Numb.</hi> 18.21. <hi>Deut.</hi> 26.12, 13. by the allowance of our Saviour Chriſt, <hi>haec oportet fieri,</hi> you ought to give tithes, even of the hearbs that grow in Gardens, <hi>Matth.</hi> 23.23. and by civill and provinciall lawes in Chriſti<g ref="char:EOLhyphen"/>anity, have they had allotted them, not onely the tithes of the fruit of the earth, becauſe they have bellies to be fed, and backs to be cloathed, and families to be maintained: but they had there Cities and there Lands belong<g ref="char:EOLhyphen"/>ing to them amongſt the Jewes, and alſo their parts in the ſacrifices and offerings, and a<g ref="char:EOLhyphen"/>mongſt Chriſtians there demaines temporal<g ref="char:EOLhyphen"/>ties, and ſpeciall priviledges: yea they had their ſpeciall priviledges amongſt the heathen, for when <hi>Ioſeph</hi> bought all the land of the Sub<g ref="char:EOLhyphen"/>jects in <hi>Egypt,</hi> the Prieſts land was not ſold, <hi>Gen.</hi> 47.28. that became not <hi>Pharaohs.</hi>
+            </p>
+            <p>And were not men deeply infected with a ſpice of
+<note n="d" place="margin">
+                  <hi>Plato</hi> ſaith, that the Sacrili<g ref="char:EOLhyphen"/>gious hold one of theſe three things, either that Godis not, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that he regard<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th not the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ings alone by m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, or that he will be eaſily reconciled to them that ſacrilegiouſly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ob him, <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b.</hi> 10. <hi>de legibus.</hi>
+               </note> infidelity, they would not touch, or meddle with that portion which is allotted to God and his Miniſters, they would not turn that to private uſes, which belongeth to the Church or Churchmen, they would not de<g ref="char:EOLhyphen"/>ſire to reap that which they never ſowed, nor
+<pb n="25" facs="tcp:63079:13"/>take away that which they never gave, they would not make the Monuments of their forefathers liberalities, the eternall teſtimo<g ref="char:EOLhyphen"/>nies of their ſacrilegious robberies; it is a leſſon ſet down in the rules of the law, <hi>quod ſemel deo dicatum, non eſt ad uſus humanos ulterius tranſferendum, that which hath been once dedicated unto God, is not any more to be tranſferred to the uſes of men, &amp; quae recte data ſunt eripi non licet, and that things well given muſt not be taken back, or be employed to civill, or prophane uſes.</hi>
+            </p>
+            <p>
+               <hi>Calvin</hi> in an Epiſtle of his to that moſt Re<g ref="char:EOLhyphen"/>verend Father <hi>Cranmer</hi> Archbiſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury</hi> complaineth, <hi>Quod praedae expoſiti ſunt eccle<g ref="char:EOLhyphen"/>ſiae reditus, that the Church revenews were made a prey,</hi> and he calls it <hi>malum ſane intollerabile,</hi> an evill or miſchief intollerable no way to be endured. <hi>Bentius</hi> in an Epiſtle prefixed before his Homi<g ref="char:EOLhyphen"/>lies on the Acts ſaith, that not onely Anti<g ref="char:EOLhyphen"/>chriſt by his impiety, and the Turk by his cruelty, threaten the deſtruction of the Church, but thoſe alſo, ſaith he, ſeek the utter ſubverſion thereof, <hi>qui occupationibus, &amp; direp<g ref="char:EOLhyphen"/>tionibus facultatum eccleſiaſticarum, adoleſcentes à ſtudio ſacrarum literarum deterrent, who by invading and ſpoiling the Churches poſſeſsions, do deterre young Students from the ſtudy of Divinity: for although ſaith he, the Church of Chriſt being built upon a rock, doth not abſolutely need the aide of externall riches, tamen hiqui facultates eccleſiaſticas deripiunt, &amp; in privatum ſuum uſum tranſferunt, depraedationibus
+<pb n="26" facs="tcp:63079:14"/>ſuis id efficiunt, quo pauciores ſacris literis operam dent, &amp; ad obeunda publica munera erudiantur, profecto eccleſiam dei quantum in ipſis eſt, evertunt, &amp; deva<g ref="char:EOLhyphen"/>ſtant, yet foraſmuch as they who ſpoil the Church of her poſſeſsions, and put them to their private uſe, do by there ſpoil, and robbery, bring matters ſo to paſſe, that fewer will addict themſelves to the ſtudy of Divinity, or be trained up to the publick functions thereof, as much as in them lye, they overthrow, and lay waſte the Church of Chriſt,</hi> and this he ſtiles <hi>(non ferendam barbariem)</hi> a Barbariſm not to be ſuffered.</p>
+            <p>
+               <hi>Gualter</hi> on the 21. of S. <hi>Lukes</hi> Goſpel ſpeak<g ref="char:EOLhyphen"/>ing of the poor Widdows two mites caſt into the Treaſury, and our Saviours preferring them before the greater gifts of the richer ſort, <hi>Foraſmuch,</hi> (ſaith he) <hi>as Christ is wont to behold ſuch things, we must remember that he alſo ſeeth them [qui opes eccleſiaſticas ſacrilega manu ad ſe rapiunt] who with ſacrilegious hands, take the Church goods unto themſelves [grave illorum ſeelus, &amp; omni deteſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnum ſacrilegium eſt, opes illas in uſum alienum convertere, five id publicè fiat, ſive privatim] hainous is there offence, and a ſacrilege by all means to be deteſt<g ref="char:EOLhyphen"/>ed, to convert thoſe poſſeſsions to any other uſe whether publike or private,</hi> and yet not onely in the papa<g ref="char:EOLhyphen"/>cy, ſaith he, but even by ſome of them <hi>[qui Evangelii nomine gloriantur, &amp; religionis reformatae ſectatores videri volunt, impudentiſsimè theſauri ſa<g ref="char:EOLhyphen"/>cri diſtrahuntur.] Who glory in the name of the Goſpel, and would ſeem the moſt ſincere profeſſors of the refor<g ref="char:EOLhyphen"/>med neligion, the holy Treaſures of the Church, are
+<pb n="27" facs="tcp:63079:14"/>moſt impudently waſted, ſome ſnatching part to their own private uſe, ſome caſting all that is left into the publike treaſury, or exchequer:</hi> whence it will in time come to paſſe <hi>[ut Scholae frigeant, doctiſsimi quique dilabantur] that Schooles will every where be contemned, and learned men decay by degrees, and ſlide away inſenſibly like water.</hi> M<hi rend="sup">r</hi> 
+               <hi>Knox</hi> in a Letter
+<note n="c" place="margin">The Copy of the Letter is in B. <hi>Coopers</hi> defence, or de<g ref="char:EOLhyphen"/>calogy againſt M<hi rend="sup">r</hi> 
+                  <hi>Hames,</hi> Pa<g ref="char:EOLhyphen"/>ralogy, <hi>pag.</hi> 66.</note> which he wrote to his brethren of the Mini<g ref="char:EOLhyphen"/>ſtery in <hi>Scotland</hi> a little before his death a<g ref="char:EOLhyphen"/>mongſt other things, <hi>chargeth and commandeth them with uprightneſſe, and ſtrength in God, to gain<g ref="char:EOLhyphen"/>ſtand the mercileſſe devourers of the Churches Patri<g ref="char:EOLhyphen"/>mony, if men will ſpoil,</hi> ſaith he, <hi>let them do it to their own perill and condemnation, but communicate you not with their ſinnes, of whatſoever estate they be, neither by conſent, nor yet by ſilence; but by publike proteſta<g ref="char:EOLhyphen"/>tion make this known unto the world, that you are inno<g ref="char:EOLhyphen"/>cent of ſuch robbery; which will are it be long, provok Gods vengeance upon the committers thereof, God give you wiſedome and courage in ſo juſt a cauſe,</hi> thus he; yet now adayes men take what they can from the Church, but give little or nothing to the Church.</p>
+            <p>Holy <hi>David,</hi> when he ſate in his houſe, <hi>and had reſt round about from all his enemies,</hi> did adviſe to build Gods houſe, 1 <hi>Sam.</hi> 7. his peace bred in him piety, his reſt religion, and the zeal of Gods houſe, <hi>had eaten him up:</hi> but the peace of many hath bred in them policy, and their zeal (might they have their will) would eat up Gods houſe, while they hunger not ſo much for the
+<pb n="28" facs="tcp:63079:15"/>good, as the goods of the Church, and deal with the Lords Ambaſſadors, as <hi>Hanun</hi> did with <hi>Davids,</hi> curtailing their livings, as he did their Garments, or as <hi>Dioniſius</hi> did with <hi>Eſculapius,</hi> who took from him his golden glit<g ref="char:EOLhyphen"/>tering robe, as too heavy for ſummer, and too cold for winter, and beſtowed on him a cour<g ref="char:EOLhyphen"/>fer garment; they are very skilfull in the ab<g ref="char:EOLhyphen"/>lative, but ignorant in the Dative, Arithmi<g ref="char:EOLhyphen"/>ticians onely in ſubſtraction from God, to make up an addition to themſelves, and their eſtates.</p>
+            <p>Go to the Iles of <hi>Chittim,</hi> and behold, en<g ref="char:EOLhyphen"/>quire of the nations round about <hi>Ier.</hi> 2.9. if any ſuch things be done amongſt Turks and Pagans to their gods: what Temples or religious places once dedicated, do they deface, or ex<g ref="char:EOLhyphen"/>poſe to contempt, ruine, or decay? or who of them ever robbed their Churches, or religious houſes ſacrilegiouſly of their revenews and patrimony?</p>
+            <p>Let men think what they will, but aſſuredly the Lords portion will be to thoſe who unjuſt<g ref="char:EOLhyphen"/>ly poſſeſſe it, and to their eſtates, as that worm which was at the root of <hi>Ionahs</hi> goard, that cauſed a ſpeedy fading, and finall decay there<g ref="char:EOLhyphen"/>of; like <hi>Achans</hi> execrable thing, which pro<g ref="char:EOLhyphen"/>ved the ruine of him and his whole family, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Ark to the Philiſtimes, which never ceaſed to plague them till it was ſent back to to the right owners, as <hi>aurum Tholoſſanum,</hi> the gold of <hi>Tolouſe</hi> which impoveriſhed all thoſe
+<pb n="29" facs="tcp:63079:15"/>and their families that had any of it, as the coal ſtoln from the Altar by the Eagle, which ſet a fire of her whole neſt: or like the curſed water to the guilty woman, though it may cauſe a ſwelling of their rents at the firſt, yet it will bring upon them and their eſtates, a con<g ref="char:EOLhyphen"/>ſumption at the laſt; for whatſoever was mor<g ref="char:EOLhyphen"/>tified, and bequeathed to the
+<note n="f" place="margin">So ran the diſpoſitive form in all grants, <hi>Deo &amp; eccleſiae.</hi>
+               </note> uſe of God, and his Church, it had a curſe or imprecation ſet upon it, that any who ſhould take it away, or alienate it to another uſe, might be Anathema, and his account without mercy at the dreadfull day of judgement, when he ſhall come to re<g ref="char:EOLhyphen"/>ceive his doome from the hand of the judge both of Heaven and Earth, to whoſe ſervice the ſame was principally dedicated.</p>
+            <p>
+               <hi>Dioniſius</hi> having ſpoiled the Temple of <hi>Pro<g ref="char:EOLhyphen"/>ſerpina</hi> at <hi>Locris,</hi> of <hi>Inpiter</hi> at <hi>Peloponeſus,</hi> of <hi>Eſ<g ref="char:EOLhyphen"/>culapius</hi> at <hi>Epidaurus;</hi> becauſe <hi>Proſerpina</hi> drow<g ref="char:EOLhyphen"/>ned him not as he ſailed to <hi>Syracuſe,</hi> nor <hi>Iupiter</hi> ſtruck him in peeces with his Thunderbolt, nor <hi>Eſculapius</hi> made an end of him by ſome miſera<g ref="char:EOLhyphen"/>ble conſumption, both he himſelf, and ſome others accounted ſuch his ſacriledge to be juſt, and lawfull: ſo ſome becauſe they thrive a while, and proſper with thoſe ſpoiles which have been taken from the Church, they think God approves and allows ſuch a ſacrilegious act; and will never call them to a reckoning for it, but they ſhall finde that curſe to take hold of them, and their families which the
+<pb n="30" facs="tcp:63079:16"/>Prophet <hi>Habakkuk</hi> pronounced againſt <hi>Nabu<g ref="char:EOLhyphen"/>chadnezzar</hi> who enriched himſelf with the ſpoils of the Eaſt, <hi>Vae accumulanti non ſua, woe to him that coveteth an evill covetouſneſſe to his own houſe, Habuc.</hi> 2.9. <hi>Theſauros quos devorarunt, eve<g ref="char:EOLhyphen"/>ment, they ſhall one day be forced, as Iob ſaith, to vomit up thoſe Treaſures which they have unjuſtly devoured,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, their wicked gain (according to the Greek Proverb) ſhall bring a rod at the back of it, to whip them with. It is an old rule <hi>voluntas ſola quoad eccleſiam punitur, that a Sacrile<g ref="char:EOLhyphen"/>gious intent ſhall not eſcape without puniſhment,</hi> and how the action of ſacrilege hath been puniſhed, what ſtory yeilds not an inſtance? what hea<g ref="char:EOLhyphen"/>then but took notice of it?</p>
+            <p>
+               <hi>Novimus multaregna, &amp; Reges eorum propterea cecidiſſe, quia eccleſias ſpoliaverunt, reſque eorum vaſtaverunt, alienarunt, diripuerunt,</hi> we have known ſaith <hi>Charles</hi> the great, many Kings and Kingdomes brought to ſpeedy ruine and de<g ref="char:EOLhyphen"/>ſtruction, becauſe they ſpoyled Churches, and laid waſte, alienated, and made a prey of their revenews. <hi>Virgil</hi> notes that the Grecians offered violence to the Temple of <hi>Pallas.</hi>
+            </p>
+            <p>
+               <hi>Corripuere ſacram effigiem,</hi> and inferres there<g ref="char:EOLhyphen"/>upon,
+<q>Ex illo ſluere &amp; retro ſublapſa reforri Spes Danaum.</q>
+            </p>
+            <p>That they never proſpered, but had ill ſuc<g ref="char:EOLhyphen"/>ceſſe ever: when <hi>Baltazar</hi> abuſed to prophane uſes the ſacred Bowls of the Temple, then ap<g ref="char:EOLhyphen"/>peared
+<pb n="31" facs="tcp:63079:16"/>the writing upon the wall, which ſhew<g ref="char:EOLhyphen"/>ed that his dayes were numbred, and that his Kingdome was cut of from him and his poſte<g ref="char:EOLhyphen"/>rity for ever, <hi>Dan.</hi> 5. <hi>Antiochus</hi> dyed miſerably, and confeſſed at his death, his ſinne of ſacri<g ref="char:EOLhyphen"/>lege, how that he had taken veſſels of gold and ſilver from the Temple of <hi>Ieruſalem,</hi> 1 <hi>Mac.</hi> 6. <hi>Heliodorus</hi> being ſent by King <hi>Saleucus</hi> to ſpoil the Temple of <hi>Ieruſalem,</hi> of the treaſury that was laid up there, as he was about to take it away, ſuddenly two young men appear be<g ref="char:EOLhyphen"/>fore him, notable in ſtrength, excellent in beauty, comely in apparell, who ſcourged him continually and gave him many ſore ſtrips, ſo that he fell on the ground, 2 <hi>Mac.</hi> 3.26, 27. and lay ſpeechleſſe, without all hope of life, <hi>Verſ.</hi> 29. till by the prayer of <hi>Onias</hi> the high. Prieſt, he was reſtored to health, <hi>Verſ.</hi> 33. and he returning to the King, when the King asked him who might be a fit man to be ſent yet once again to <hi>Ieruſalem</hi> for the ſame purpoſe, <hi>Verſ.</hi> 31. he anſwered, if thou haſt any enemy or tray<g ref="char:EOLhyphen"/>tor, ſend him thither, and thou ſhalt receive him well ſcourged, if he eſcape with his life, <hi>Verſ.</hi> 38. for in that place there is no doubt, a ſpeciall power of God which defendeth it, and beateth, and deſtroyeth them that come to hurt it. <hi>Verſ.</hi> 39. After <hi>Iulian</hi> had robbed the Churches of their plate in ſcoffing manner, ſaying, <hi>Ecce quam pretioſis vaſis miniſtratur Mariae filio, are theſe fit veſſels or cups for the Sonne of Mary
+<pb n="32" facs="tcp:63079:17"/>to be ſerved with?</hi> he was ſuddenly wounded to death with an Arrow (as
+<note n="g" place="margin">
+                  <hi>Theod. eccleſ. hiſt. lib.</hi> 3. <hi>c.</hi> 11.</note> 
+               <hi>Theoderet</hi> thinketh) ſhot from Heaven. <hi>Pompey</hi> noted by <hi>Tully,</hi> and <hi>Livy</hi> for one of the moſt fortunate men in the world, till he entred into the Temple at <hi>Ieru<g ref="char:EOLhyphen"/>ſalem,</hi> and offered wrong to it, then continually after he had unhappy ſucceſſe, and dyed miſe<g ref="char:EOLhyphen"/>rably, when the Vandals came with a puiſſant army againſt <hi>Gabinius,</hi> (as <hi>Eutropius</hi> relates the ſtory) the Duke ſent ſome of his Captains diſguiſed to ſee whether the Vandals reveren<g ref="char:EOLhyphen"/>ced the Temples of the Chriſtians, or ſpoiled them, if they ſpoyl, or violate them (ſaith he) the God whom the Chriſtians worſhip, who they ſay is a powerfull God, will not ſpare them that ſpoil his houſes, and ſo it came to paſſe; for the Vandals marching forward in<g ref="char:EOLhyphen"/>riched with the ſpoil, and goods of the Church were vanquiſhed in battell, ſlain, and put to divers torments.</p>
+            <p>And that I be not infinite in examples we ſee by daily experience, that of goods ſacri<g ref="char:EOLhyphen"/>legiouſly gotten, <hi>perpetuus nulli datur uſus, no man poſſeſſeth them long,</hi> but they paſſe from man to man, from heir to heir, from family to family, as the Ark did from <hi>Aſhdod</hi> to <hi>Gath,</hi> from <hi>Gath</hi> to <hi>Ekron,</hi> and could finde no place to reſt in among the Philiſtines, but troubled them whereſoever it came, till they returned it again to its proper place, 1 <hi>Sam.</hi> 5.</p>
+            <p>If any be offended with this my diſcourſe,
+<pb n="33" facs="tcp:63079:17"/>I muſt anſwer for my ſelf, as <hi>Tertullian</hi> did in another caſe, <hi>conditio praeſentium temporum pro<g ref="char:EOLhyphen"/>vocat hanc admonitionem noſtram,</hi> the condition of the preſent times do provoke, and in a man<g ref="char:EOLhyphen"/>ner embolden me to offer unto the view of thoſe, who pleaſe to read it, this my admoni<g ref="char:EOLhyphen"/>tory information, that had its conception, and birth, was begun, and finiſhed in a very few dayes ſpace, which I now intimate, not there<g ref="char:EOLhyphen"/>by to aſſume any glory to my ſelf, but by way of excuſe or apology, if I have not performed anſwerably to the goodneſſe of the cauſe, in defence of which it had been fit, I ſhould have uſed more mature deliberation, leaſt truth it ſelf ſuffer by this my over haſty indiſcretion.</p>
+            <p>But when I had waited long to ſee whether the ancient and men of ablerparts would ſpeak, and continually heard many mouthes open to defame the ſervice, and ceremonies of our Church, and few, or none open to defend them from thoſe fowle unjuſt aſperſions, which are in many libellous Pamphlets caſt upon them,
+<q>
+                  <l>Vexatus toties Rauci Theſeide Codri</l>
+                  <l>—Quis tam ferreus ut teneat ſe?</l>
+               </q> Rather then ſo good a cauſe ſhould want an advocate to plead for it, or that our Church ſhould not be juſtified of ſome (though one of the meaneſt) of her children; I have preſu<g ref="char:EOLhyphen"/>med to publiſh in a very homely dreſſe, ſuch as it is, this my defence, and vindication of the Service, Ceremonies, and ſetled Patrimony
+<pb n="34" facs="tcp:63079:18"/>of our Church, which craves audience againſt thoſe, <hi>quibus quieta movere magna eſt mer es,</hi> who love to fiſh in troubled waters, and hold the diſturbance of the Churches peace, a ſufficient hire to ſet them on work, making it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> their whole endeavour, their ſpeciall ſtudy, night and day, to keep a faction on foot to main<g ref="char:EOLhyphen"/>tain oppoſition and ſidings. And that late re<g ref="char:EOLhyphen"/>verend Biſhop of <hi>Wincheſter,</hi> Doctor <hi>Andrewes</hi> hath told us the true reaſon why ſuch men love to be contentious,? why, ſaith he, <hi>It is the way to be ſomebody, in times of peace what reckoning is there of Wat Tyler or Iack Straw? Make a ſedition, and they will bear a brain with the beſt.</hi>
+            </p>
+            <p>
+               <hi>Primianus</hi> and <hi>Maximianus</hi> were the heads of the two factions of the Donatiſts in S. <hi>Auſtins</hi> time, he ſaith, it was well for them that facti<g ref="char:EOLhyphen"/>ons fell out, elſe <hi>Primianus</hi> might have been <hi>Poſtremianus,</hi> and <hi>Maximianus</hi> might have been <hi>Minimianus</hi> well enough, but in a faction either of them was a jolly fellow, head, and leader of a party; and this tickling deſire of vainglory, to be magnified up, and down in the mouthes of the people for the head of a faction, will make men contentious, and they will take or<g ref="char:EOLhyphen"/>der that we ſhall never want, needleſſe conten<g ref="char:EOLhyphen"/>tions, and quarrellſome brawls, both in the Church, and State, if they be not timely pre<g ref="char:EOLhyphen"/>vented and ſuppreſſed.</p>
+            <p>But ſith there can come nothing of contenti<g ref="char:EOLhyphen"/>on, but the mutuall waſte of the parties con<g ref="char:EOLhyphen"/>tending,
+<pb n="35" facs="tcp:63079:18"/>till a
+<note n="h" place="margin">
+                  <hi>Divide &amp; im<g ref="char:EOLhyphen"/>pera.</hi> Matth. 12.25. A Kingdome divided, &amp;c.</note> common enemy dance in the aſhes of them both, I do wiſh heartily that the grave advice which <hi>Conſtantine</hi> gave for re<g ref="char:EOLhyphen"/>uniting his divided Clergy, may at the length ſo farre prevail with us, who profeſſe our ſelves to be the ſonnes of the ſame Church, that things of ſmall moment never diſioyn us, whom one God, one Lord, one faith, one bap<g ref="char:EOLhyphen"/>tiſme, bands of ſo great force, have lincked together; and that we would bear ſuch reſpe<g ref="char:EOLhyphen"/>ctive love to our Mother, this Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> (which hath nurtured us in the truth, and from our infancy hath tendred all good means, that we being taught in the Word, may now many of us teach others) as not upon needleſſe, and triviall occaſions to diſquiet her peace.</p>
+            <p>It cannot be denyed, but that ſome unto whom the execution of the Eccleſiaſticall Laws belong, have been much faulty, and through want of either of care or conſcience, have ſuffered many irregular abuſes and cor<g ref="char:EOLhyphen"/>ruptions, to creep into their Courts: but theſe are perſonall faults, of which I am no Patron, the beſt defence of them is ſpeedy redreſſe, and amendment: that which I defend, is that all perſonall adventitious abuſes being ſeve<g ref="char:EOLhyphen"/>red, and ſet apart, there is not in the form of our Church politie, nor in our Liturgy, nor in the ceremonies of our Church any thing, which hath not in ſome ſort warrant from Di<g ref="char:EOLhyphen"/>vine authority, or Primitive antiquity; and
+<pb n="36" facs="tcp:63079:19"/>which hath not been allowed, approved, and alſo juſtified by the glorious Martyrs, and beſt learned Divines of our Church againſt the ca<g ref="char:EOLhyphen"/>villing exceptions of gainſayers.</p>
+            <p>Wherefore I wiſh once again from my heart that the ceremonies, and eſpecially the ſervice Book of our Church might be continued with<g ref="char:EOLhyphen"/>out any, or with as little alteration as may be, for the reaſons given by thoſe of our Engliſh Church at <hi>Strausburgh,</hi> to them of <hi>Franckford,</hi> why they ſhould continue the Book of Pray<g ref="char:EOLhyphen"/>er they had: 1. Becauſe they that ſhould alter it, might be thought to condemn the chief Authors of it, who ſuffered as Martyrs. 2. Be<g ref="char:EOLhyphen"/>cauſe it might give occaſion to the adverſary, to accuſe our doctrine of imperfection, and mutability, and to upbraid us, (as uſually they do) that we have onely <hi>menſtruam fidem,</hi> a changeable faith. 3. Becauſe it might move the godly, to doubt of that truth whereof be<g ref="char:EOLhyphen"/>fore they were well perſwaded.</p>
+            <p>It is an old received rule that <hi>omnis mutatio eſt periculoſa, all change of things ſetled is dangerous: nam mutatio conſuetudinis etiam quae adjuuat utilitate, perturbat novitate, for the very change ſaith S. Augu<g ref="char:EOLhyphen"/>ſtine of ſetled cuſtomes, though it may ſeem to help with ſome commodity, yet will it do more hurt with the novelty.</hi> Which occaſioned the Locrines to decree that whoſoever would bring in a new law amongſt them, ſhould come and declare it to the aſſembly with an halter about his neck,
+<pb n="37" facs="tcp:63079:19"/>that if it were not approved good for the Common-wealth, he might preſently be han<g ref="char:EOLhyphen"/>ged for his deſire of innovation: and becauſe many dangerous inconveniencies do common<g ref="char:EOLhyphen"/>ly follow upon the alteration of things ſetled. Our late wiſe <hi>Salomon,</hi> and gracious Soveraign K. <hi>Iames</hi> (in his proclamation prefixed before the Book of Common prayers) <hi>admoniſhed all men, that hereafter they ſhould not expect, or attempt any further alteration in the common and publike form of Gods Service from that, which was then eſtabliſh<g ref="char:EOLhyphen"/>ed; for (ſaith his ſacred Majeſty) neither will we give way to any to preſume, that our own judgement having determined in a matter of ſuch weight ſhall be ſwayed to alteration by the frivolous ſuggeſtion of any light ſpirit, neither are we ignorant of the inconveniences that do ariſe in Government, by admitting innovation in things once ſetled by mature deliberation; and how neceſſary it is to uſe conſtancy in upholding publike de<g ref="char:EOLhyphen"/>terminations of ſtates: for ſuch is the unquietneſſe, and unſtedfaſtneſſe of ſome diſpoſitions affecting every yeer new formes of things, as if they ſhould be follow<g ref="char:EOLhyphen"/>ed in their unconſtancy, would make all actions of ſtate ridiculous, and contemptible; whereas the ſtedfaſt maintaining of things by good advice eſtabliſhed, is the weal of all Common-wealths.</hi>
+            </p>
+            <p>Let no fancy then about ceremonies, no blinde affection to any forraign Church diſci<g ref="char:EOLhyphen"/>pline, no itch of innovation, no ſingular con<g ref="char:EOLhyphen"/>ceit of pride, no humorous contrariety alienate your mindes from the publike ſervice and cere<g ref="char:EOLhyphen"/>monies
+<pb n="38" facs="tcp:63079:20"/>of our Church by law eſtabliſht. Do not, with the Phariſees, ſtrain at a gnar, and ſwallow a Camell,
+<note place="margin">Matth. 23.24.</note> ſtumble at a lawfull cere<g ref="char:EOLhyphen"/>mony, and foſter a lawleſſe ſchiſme; but let it be your onely ſtrife to flye all needleſſe ſtrife and contention about ſuch things, and in your daily prayers, pray for the peace of <hi>Ieruſalem,</hi> bowing your knees, lifting up your eyes, hands, and hearts unto the God of peace, that he would at the length ſettle a firm peace in his Church: never was there more need of this prayer, then in this fearfull combuſtion, and confuſion of the Chriſtian world, wherein there is nothing almoſt heard of, but fraction, and faction, ſchiſme, and ſeparation; nothing but warres and rumours of warres, Chriſtian againſt Chriſtian, Church againſt Church, Nation againſt Nation, Kingdome againſt Kingdome, as if thoſe laſt perillous times were come upon us which our Saviour ſpoke of, <hi>Matth.</hi> 24. therefore <hi>Pacem ſpiremus &amp; ſuſpi<g ref="char:EOLhyphen"/>remus coram domino, let us breath out prayers, and ſighes for peace before the Lord,</hi> and eſpecially at this time we ſhould poure out our devoute, fer<g ref="char:EOLhyphen"/>vent prayers to Almighty God for the repre<g ref="char:EOLhyphen"/>ſentative body, the great Councell of this Kingdome now aſſembled in the high Court of Parliament, moſt humbly beſeeching him, ſo to ſteer all their conſultations, that by a joynt unanimous conſent they may decree onely thoſe things, as ſhall make moſt to his
+<pb n="39" facs="tcp:63079:20"/>glory, to the advancement of truth, and piety, to the joy and contentation of His Majeſty, to the peace, welfare, and ſafety both of the Church, and State, carefully avoiding all extreams, without turning a<g ref="char:EOLhyphen"/>ſide either to the right hand or the left, which God in mercy grant, &amp;c. <g ref="char:dtristar">*⁎*</g>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAg. 5. Lin. 12. for Quinti hunc, read Quintiliane, pag. 18. l. 17. for purling, read puſling. pag 25. lin. 18. Bentius, read Brentius.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
